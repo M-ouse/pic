@@ -1,2 +1,2 @@
-# ubiquitous-engine
-only for pics dsiplay
+# pic
+only for pics display
